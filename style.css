@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@media print {
+  @page {
+    margin: 1in;
+    margin-top: 0.5in;
+    size: letter portrait;
+  }
+}
+
+.font-sans {
+  font-family: 'Roboto' !important;
+}
+
+.text-xs {
+  font-size: 6pt !important;
+}
+
+.text-sm {
+  font-size: 8pt !important;
+}
+
+.text-base {
+  font-size: 10pt !important;
+}
+
+.text-lg {
+  font-size: 12pt !important;
+}
+
+.text-xl {
+  font-size: 14pt !important;
+}
+
+.text-2xl {
+  font-size: 16pt !important;
+}
+
+.text-3xl {
+  font-size: 18pt !important;
+}
+
+.text-4xl {
+  font-size: 20pt !important;
+}
+
+.text-5xl {
+  font-size: 22pt !important;
+}
+
+.text-6xl {
+  font-size: 24pt !important;
+}
